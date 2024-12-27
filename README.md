@@ -2,7 +2,7 @@
 
 A modern Android application showcasing Formula 1 tracks in both 2D and Spatial (XR) modes, built with Jetpack Compose and Android XR Compose.
 
-### What is Android XR?
+## What is Android XR?
 
 ![image](https://github.com/user-attachments/assets/f7c6d67f-b8ba-4686-a488-3cfbb0f2b67a)
 
