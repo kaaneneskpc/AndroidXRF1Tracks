@@ -6,7 +6,7 @@ A modern Android application showcasing Formula 1 tracks in both 2D and Spatial 
 
 ### What is Android XR?
 
-![Android XR](https://developer.android.com/static/images/games-support/xr/xr-hero.svg)
+![image](https://github.com/user-attachments/assets/f7c6d67f-b8ba-4686-a488-3cfbb0f2b67a)
 
 Android XR (Extended Reality) is Google's innovative platform that brings spatial computing capabilities to Android devices. It enables developers to create immersive experiences that blend digital content with the physical world. This technology encompasses both augmented reality (AR) and virtual reality (VR) features, allowing applications to create rich, interactive 3D environments that users can naturally interact with in space.
 
