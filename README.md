@@ -198,6 +198,6 @@ dependencies {
 **Kaan Enes Kapıcı**
 - LinkedIn: [Kaan Enes Kapıcı](https://www.linkedin.com/in/kaaneneskpc/)
 - GitHub: [@kaaneneskpc](https://github.com/kaaneneskpc)
-- Email: kaaneneskapici@gmail.com
+- Email: kaaneneskpc1@gmail.com
 
 Feel free to reach out for any questions, suggestions, or collaboration opportunities! 
